@@ -1,2 +1,1 @@
-puts "Hello ワールド"
-puts "ハローワーク"
+puts "aaaaa"
